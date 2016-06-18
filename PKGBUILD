@@ -11,7 +11,7 @@ arch=('i686' 'x86_64' 'armv7h')
 makedepends=('git')
 
 #_gitroot="https://github.com/tomojitakasu/RTKLIB.git"
-#_gitroot="https://github.com/cquest/RTKLIB.git"
+_gitroot="https://github.com/cquest/RTKLIB.git"
 _gitname="RTKLIB"
 
 build() {

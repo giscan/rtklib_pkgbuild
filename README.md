@@ -1,5 +1,6 @@
 # rtklib_pkgbuild
 An archlinux pkgbuild for RtkLib
+
 RTKLIB is an open-source program for GNSS positioning
 
 # How to use it :
@@ -12,4 +13,4 @@ cd rtklib_pkgbuild
 
 makepkg
 
-pacman -U rtklib_2.4.3
+pacman -U rtklib_2.4.3*

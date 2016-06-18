@@ -4,7 +4,7 @@ An archlinux pkgbuild for RtkLib
 # How to use it :
 
 
-git clone git://github.com/kikislater/rtklib_pkgbuild.git
+git clone git://github.com/giscan/rtklib_pkgbuild.git
 
 cd rtklib_pkgbuild
 

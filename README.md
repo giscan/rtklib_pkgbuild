@@ -13,4 +13,4 @@ cd rtklib_pkgbuild
 
 makepkg
 
-pacman -U rtklib_2.4.3*
+pacman -U rtklib_*.pkg.tar.xz
